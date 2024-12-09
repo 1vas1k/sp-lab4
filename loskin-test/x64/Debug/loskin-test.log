@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\UNIVERSITY\SP\lab4\loskin-test\stringProcessor.h(11,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+C:\UNIVERSITY\SP\lab4\loskin-test\stringProcessor.h(23,12): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  loskin-test.vcxproj -> C:\UNIVERSITY\SP\lab4\loskin-test\x64\Debug\loskin-test.exe
